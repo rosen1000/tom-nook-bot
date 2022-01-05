@@ -1,0 +1,25 @@
+{
+    "Cherry": {
+        "maxStack": 10,
+        "tags": ["fruit"],
+        "properties": [],
+        "price": 100
+    },
+    "Stone": {
+        "maxStack": 30,
+        "tags": ["resource"],
+        "properties": [],
+        "price": 75
+    },
+    "Tree branch": {
+        "maxStack": 30,
+        "tags": ["resource"],
+        "properties": [],
+        "price": 5
+    },
+    "Pickaxe": {
+        "maxStack": 1,
+        "tags": ["tool"],
+        "properties": {}
+    }
+}
